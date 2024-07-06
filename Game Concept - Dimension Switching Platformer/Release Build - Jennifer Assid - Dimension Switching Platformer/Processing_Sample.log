@@ -1,0 +1,13 @@
+﻿  gamestate_gameover.c
+  gamestate_menu.c
+  collisions.c
+  gamestate_splash.c
+  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Processing_Sample.vcxproj -> D:\GitHub_Repositiories\Computer Science Code Portfolio\Game Concept - Dimension Switching Platformer\x64\Release\Processing_Sample.exe
+  1 File(s) copied
+  1 File(s) copied
+  24 File(s) copied
