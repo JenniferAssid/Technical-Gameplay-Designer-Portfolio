@@ -1,0 +1,5 @@
+﻿  Main.c
+  stdafx.c
+  Animation.c
+D:\GitHub_Repositiories\Computer Science Code Portfolio\CS230 - Game Implementation Techniques - COMPLETED ENGINE\Source\Animation.c(12,1): error C2220: the following warning is treated as an error
+D:\GitHub_Repositiories\Computer Science Code Portfolio\CS230 - Game Implementation Techniques - COMPLETED ENGINE\Source\Animation.c(12,1): warning C4651: '/D_MSC_EXTENSIONS' specified for precompiled header but not for current compile

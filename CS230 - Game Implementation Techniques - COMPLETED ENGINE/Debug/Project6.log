@@ -1,0 +1,48 @@
+﻿  stdafx.c
+  Animation.c
+  Behavior.c
+  BehaviorAsteroid.c
+  BehaviorBullet.c
+  BehaviorHudText.c
+  BehaviorSpaceship.c
+  Collider.c
+  ColliderCircle.c
+  ColliderLine.c
+  Engine.c
+  GameObject.c
+  GameObjectFactory.c
+  GameObjectManager.c
+  GameStateAsteroids.c
+  GameStateDemo.c
+  GameStateLevel1.c
+  GameStateLevel2.c
+  GameStateManager.c
+  GameStateOmega.c
+  GameStateSandbox.c
+  Generating Code...
+  Compiling...
+  GameStateStub.c
+  GameStateTable.c
+  Main.c
+  Matrix2D.c
+  Mesh.c
+  MeshManager.c
+  Physics.c
+  Random.c
+  ScoreSystem.c
+  Sprite.c
+  SpriteSource.c
+  SpriteSourceManager.c
+  Stream.c
+  Stub.c
+  System.c
+  Teleporter.c
+  Trace.c
+  Transform.c
+  Vector2D.c
+  Generating Code...
+  Project6.vcxproj -> D:\GitHub_Repositiories\Computer Science Code Portfolio\CS230 - Game Implementation Techniques - COMPLETED ENGINE\Debug\Project6.exe
+  .\AE\lib\Alpha_Engine_D.dll
+  1 File(s) copied
+  .\AE\lib\glew32.dll
+  1 File(s) copied
