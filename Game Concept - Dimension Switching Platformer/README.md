@@ -2,10 +2,10 @@
 **Status:** Incomplete Concept - Abandoned
 
 ## Course Details
-**Name:** GAM100: Project Introduction
-**Instructor:** Justin Chambers & Doug Schilling
-**Semester:** Fall 2020
-**Description:** This course focuses on basic software development, concept development, and team dynamics. The central focus of the course is team development of a simple digital game or simulation. Industry history and practices will also be explored.
+**Name:** GAM100: Project Introduction \
+**Instructor:** Justin Chambers & Doug Schilling \
+**Semester:** Fall 2020 \
+**Description:** This course focuses on basic software development, concept development, and team dynamics. The central focus of the course is team development of a simple digital game or simulation. Industry history and practices will also be explored. \
 *Description copied from the 2020-2021 DigiPen Course Catalog*
 
 # Looking Into the Project
