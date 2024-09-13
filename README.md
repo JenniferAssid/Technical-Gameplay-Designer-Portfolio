@@ -7,8 +7,10 @@ This is a work-in-progress portfolio! Transferring four years of work over to Gi
 
 ## Work to be Done
 
-### Fall 2020
-- [X] CS120: High-Level Programming I
+### Freshman 
+| Fall 2020                             | Spring 2021
+| :---                                  | :--- |
+| - [X] CS120: High-Level Programming I | ... |
     - [X] Assignments
         - [X] Pi
         - [X] Palindrome
