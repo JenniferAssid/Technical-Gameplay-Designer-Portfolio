@@ -5,10 +5,9 @@ This folder contains all of the work assocated with the 1D Battler systems and t
 **Name:** DES212: System Design Methods
 **Instructor:** Benjamin Ellinger
 **Semester:** Spring 2022
-**Description:** This course is an introduction to game design theory and
-the process of designing games. Topics may include design
-principles, writing rules, playtesting, game state, randomness,
-hidden information, and game balance.
+**Description:** This course focuses on how to analyze and simulate game
+systems. Topics may include system analysis, system simulation,
+system balancing, combat systems, and economic systems.
 
 # Downloading the Release Build
 Each iteration of this project is provided (along side their individual builds). To experience them, navigate to the Build folder inside each and double click the .exe

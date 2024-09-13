@@ -5,10 +5,9 @@ This folder contains all of the work assocated with the Fantastical Mundane craf
 **Name:** DES212: System Design Methods
 **Instructor:** Benjamin Ellinger
 **Semester:** Spring 2022
-**Description:** This course is an introduction to game design theory and
-the process of designing games. Topics may include design
-principles, writing rules, playtesting, game state, randomness,
-hidden information, and game balance.
+**Description:** This course focuses on how to analyze and simulate game
+systems. Topics may include system analysis, system simulation,
+system balancing, combat systems, and economic systems.
 
 # Downloading the Release Build
 Given that this project was contained completely in a spreadsheet, all you have to do to view it is download the Excel file (.xlsx) in the repository!
